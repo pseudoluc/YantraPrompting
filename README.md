@@ -410,9 +410,8 @@ An open-source **YantraPrompt** framework is in development to facilitate the cr
 
 **Data Availability**: Raw data (textual corpus) remains confidential. Aggregated results and anonymized SVG codes can be made available under ethical conditions.
 
-```
 [![DOI](https://zenodo.org/badge/1089423972.svg)](https://doi.org/10.5281/zenodo.17521810)
-```
+
 
 
 
