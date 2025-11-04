@@ -409,3 +409,13 @@ An open-source **YantraPrompt** framework is in development to facilitate the cr
 **Conflicts of Interest**: The author declares no financial or commercial conflicts of interest related to this research.
 
 **Data Availability**: Raw data (textual corpus) remains confidential. Aggregated results and anonymized SVG codes can be made available under ethical conditions.
+
+```
+[![DOI](https://zenodo.org/badge/1089423972.svg)](https://doi.org/10.5281/zenodo.17521810)
+```
+
+
+
+# Cite
+
+BRUNET, L. E., & pseudolucV5. (2025). pseudoluc/YantraPrompting: v1 (Publication). Zenodo. https://doi.org/10.5281/zenodo.17521811
