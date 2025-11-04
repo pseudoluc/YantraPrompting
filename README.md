@@ -418,4 +418,4 @@ An open-source **YantraPrompt** framework is in development to facilitate the cr
 
 # Cite
 
-BRUNET, L. E., & pseudolucV5. (2025). pseudoluc/YantraPrompting: v1 (Publication). Zenodo. https://doi.org/10.5281/zenodo.17521811
+BRUNET, L. E., & pseudolucV5. (2025). Yantra Prompting: Vector-Graphic Transcoding for Behavioral Steering of Language Models. Zenodo. https://doi.org/10.5281/zenodo.17521811
